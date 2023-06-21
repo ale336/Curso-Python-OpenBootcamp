@@ -30,6 +30,8 @@ d = Dino("ale")
 
 ############################################# 
 
+#EJERCICIO 1
+
 #En este ejercicio vais a crear la clase Vehículo la cual tendrá los siguientes atributos:
 
   # Color
@@ -45,3 +47,9 @@ d = Dino("ale")
   #Cilindrada
 
 # Por último, tendrás que crear un objeto de la clase Coche y mostrarlo por consola.
+
+#EJERCICIO 2
+
+# En este segundo ejercicio, tendréis que crear un programa que tenga una clase llamada Alumno que tenga como atributos su nombre y su nota. 
+# Deberéis de definir los métodos para inicializar sus atributos, imprimirlos y mostrar un mensaje con el resultado de la nota y si ha aprobado o no.
+
